@@ -1,5 +1,5 @@
 # Conflictos
-** Bienvenidos al repositorio práctica de COnflictos en GIT" ** </br>
+** Bienvenidos al repositorio práctica de Conflictos en GIT" ** </br>
 Aquí podrás ver:
 1. Conflitos de GIT
     1. Subsanación de conflictos 
